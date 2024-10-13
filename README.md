@@ -2,7 +2,7 @@
 
 - 🎓 I’m a student passionate about **Machine Learning**, **Web Development**, and **Programming**.
 - 👀 I’m always exploring new technologies and building projects to sharpen my skills.
-- 🌱 Currently, I'm diving deep into **ML algorithms**, **full-stack web development**, and learning new **programming languages**.
+- 🌱 Currently, I'm diving deep into **ML algorithms**, **Full-stack web development**, and studying **core subjects** along with practising **Data Structures and Algorthms**.
 - 💻 I love working on personal projects and collaborating with others in the tech community.
 - 📫 Feel free to reach me at: shashankraishetty00@gmail.com.
 
